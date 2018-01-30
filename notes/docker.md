@@ -36,6 +36,8 @@ docker run hello world
 * `docker search` – Searches the Docker Hub for images
 * `docker attach` – Attaches to a running container
 * `docker commit` – Creates a new image from a container’s changes
+* `docker rm` - Remove a running or paused container
+* `docker rmi` - Remove a Docker image
 
 NOTE: to any of the commands above adding `--help` will list all the options available for that particular command. For example
 
